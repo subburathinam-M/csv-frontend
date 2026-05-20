@@ -40,7 +40,7 @@ function App() {
 
     try {
       // Create request to backend
-      const response = await axios.post('http://localhost:8000/api/v1/csv/process', formData, {
+      const response = await axios.post('https://csv-backend-55nw.onrender.com/api/v1/csv/process', formData, {
         headers: {
           'Content-Type': 'multipart/form-data',
         },
