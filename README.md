@@ -439,10 +439,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 🚀 Built with ❤️ using **React**, **Vite**, and **Axios**
 
 </div>
-'''
-
-with open('/mnt/agents/output/FRONTEND_README.md', 'w', encoding='utf-8') as f:
-    f.write(frontend_readme)
-
-print("FRONTEND README created!")
-print(f"Size: {len(frontend_readme)} chars")
