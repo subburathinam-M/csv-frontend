@@ -9,7 +9,7 @@
 
 **🔗 Live Demo:** [https://csvdataduplicate.netlify.app](https://csvdataduplicate.netlify.app)  
 **🔗 Backend API:** [https://your-api.onrender.com/docs](https://your-api.onrender.com/docs)  
-**🔗 Backend Repo:** [github.com/yourname/csv-backend](https://github.com/subburathinam-M/csv-backend)
+**🔗 Backend Repo:** [github.com/subburathinam-M/csv-backend](https://github.com/subburathinam-M/csv-backend)
 
 ---
 
