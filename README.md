@@ -402,9 +402,9 @@ git push origin main
 | Screen | Preview |
 |--------|---------|
 | **Upload Zone** | ![Upload](docs/screenshots/UploadZone.png) |
-| **Processing** | ![Processing](docs/screenshots/processing.png) |
-| **Stats Dashboard** | ![Stats](docs/screenshots/stats.png) |
-| **Downloads** | ![Downloads](docs/screenshots/downloads.png) |
+| **Processing** | ![Processing](docs/screenshots/Processing.png) |
+| **Stats Dashboard** | ![Stats](docs/screenshots/StatusDashboard.png) |
+| **Downloads** | ![Downloads](docs/screenshots/Downloads.png) |
 
 > Add your screenshots to `docs/screenshots/` folder
 
