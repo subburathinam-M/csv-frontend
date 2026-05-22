@@ -401,7 +401,7 @@ git push origin main
 
 | Screen | Preview |
 |--------|---------|
-| **Upload Zone** | ![Upload](docs/screenshots/upload.png) |
+| **Upload Zone** | ![Upload](docs/screenshots/UploadZone.png) |
 | **Processing** | ![Processing](docs/screenshots/processing.png) |
 | **Stats Dashboard** | ![Stats](docs/screenshots/stats.png) |
 | **Downloads** | ![Downloads](docs/screenshots/downloads.png) |
